@@ -88,3 +88,5 @@ https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/j
 https://app.webbtree.com/company/egensolutions/jobs/software-development-engineer-in-test-typescriptplaywrightcypress-06eb00?utm_campaign=linkedin_ll_jobs_apply&utm_source=linkedin_ll&utm_medium=organic
 
 https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Quality-Assurance-Engineer_JR-75313?source=website_linkedin
+
+https://delta.avature.net/careers/JobDetail/SDET-20005/20005?source=LinkedIn
