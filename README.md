@@ -68,6 +68,8 @@ https://careers.cognizant.com/us/en/job/COGNGLOBAL00053464571/UI-API-Automation-
 
 https://careers.cognizant.com/us/en/job/COGNGLOBAL00053613051/Mobile-Automation-Tester?utm_source=linkedin&utm_medium=phenom-feeds
 
+https://jobs.netflix.com/jobs/259477404
+
 https://jobs.smartrecruiters.com/NBCUniversal3/743999896745214-qa-automation-lead
 
 https://www.linkedin.com/jobs/search/?currentJobId=3524217824&geoId=103644278&keywords=selenimum%20cypress&location=United%20States&refresh=true
