@@ -76,5 +76,15 @@ https://www.medidata.com/en/careers/test-automation-lead-532952/job/
 
 https://boards.greenhouse.io/degreed/jobs/4817129004?gh_src=f16e0ebe4us&source=LinkedIn
 
+https://jobs.smartrecruiters.com/NBCUniversal3/743999882941215-qa-automation-lead
+
+https://www.schwabjobs.com/job/-/-/33727/46311856720?utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=Annual_Media&utm_content=social_media&utm_term=358106005&ss=paid&dclid=COCP7pCViv4CFT6f_QcdKp4DVQ
 
 
+https://careers.tiktok.com/position/7176375260128250173/detail?spread=5MWH5CQ
+
+https://ekgn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/2840?utm_medium=jobshare&utm_source=linkedin&utm_medium=job%2Baggregator
+
+https://app.webbtree.com/company/egensolutions/jobs/software-development-engineer-in-test-typescriptplaywrightcypress-06eb00?utm_campaign=linkedin_ll_jobs_apply&utm_source=linkedin_ll&utm_medium=organic
+
+https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CO-Boulder/Quality-Assurance-Engineer_JR-75313?source=website_linkedin
