@@ -58,3 +58,23 @@ https://www.youtube.com/watch?v=dLj0U6BgWuw
 
 
 https://www.youtube.com/watch?v=qc4yHkyRkaY
+
+
+
+Job Refereances :
+====================
+
+https://careers.cognizant.com/us/en/job/COGNGLOBAL00053464571/UI-API-Automation-Tester?utm_source=linkedin&utm_medium=phenom-feeds 
+
+https://careers.cognizant.com/us/en/job/COGNGLOBAL00053613051/Mobile-Automation-Tester?utm_source=linkedin&utm_medium=phenom-feeds
+
+https://jobs.smartrecruiters.com/NBCUniversal3/743999896745214-qa-automation-lead
+
+https://www.linkedin.com/jobs/search/?currentJobId=3524217824&geoId=103644278&keywords=selenimum%20cypress&location=United%20States&refresh=true
+
+https://www.medidata.com/en/careers/test-automation-lead-532952/job/
+
+https://boards.greenhouse.io/degreed/jobs/4817129004?gh_src=f16e0ebe4us&source=LinkedIn
+
+
+
